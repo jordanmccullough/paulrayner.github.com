@@ -6,13 +6,17 @@ comments: true
 categories: 
 ---
 
-## New Blog
+## New Blog - Why?
 
-### Why?
+### _Goal: Zero Friction_
 
-The goal: Zero Friction. 
+Frictionless tools. An inertia-free process. I have left my blog lie fallow for over a year because of the friction of writing and publishing to it. Every time I came up with an idea to write about, I thought about the hassle of getting it online using my tools of choice, and instead of making it happen I did nothing. Thinking about the benefits of sharing did not help. Telling myself that I needed to be writing didn't help. Trying different HTML editors didn't help. Reading posts [about why I should][22] [be blogging didn't help (well, maybe a little)][23].
 
-Frictionless tools. An inertia-free process. I have left my blog lie fallow for over a year because of the friction of writing and publishing to it. Friction in our tooling is the death of a thousand cuts.
+Friction in our tooling is the death of a thousand cuts.
+
+It doesn't have to be blogging. Friction is found in many places. A commitment to eliminating friction wherever we find it should be paramount. At the heart of Lean is the idea of getting ideas from concept to cash as soon as possible, and friction is what gets in the way of that ideal. 
+
+TDD assists us with reducing friction in creating maintainable, loosely-coupled code. CI is about reducing friction around technical teamwork. Continuous deployment is about eliminating friction from the deployment pipeline.
 
 As Ayende said in his post [Reducing friction as a standard operating method][10]:
 
@@ -38,7 +42,7 @@ What kind of friction? I can't work without source control now.
 
 >Inertia comes from the Latin word, iners, meaning idle, or lazy.
 
-Contrast inertia with impetus, which means:
+Contrast inertia with impetus, which is [defined as][21]:
 
 >An impelling force; an impulse.
 
@@ -134,4 +138,6 @@ This started out as a post about installing Octopress, and became something more
 [12]: http://www.thefreedictionary.com/inertia
 [13]: http://www.amazon.com/Notebooks-Leonardo-Vinci-Worlds-Classics/dp/0192815385
 [20]: http://ayende.com/blog/3131/setting-up-zero-friction-projects-data-access
-[21]: 
+[21]: http://www.thefreedictionary.com/impetus
+[22]: http://www.hanselman.com/blog/YourWordsAreWasted.aspx
+[23]: http://www.hanselman.com/blog/YourBlogIsTheEngineOfCommunity.aspx
