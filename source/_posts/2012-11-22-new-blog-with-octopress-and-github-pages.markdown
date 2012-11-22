@@ -6,11 +6,47 @@ comments: true
 categories: 
 ---
 
-## New Blog - Why?
+## Inertia and Impetus - Chasing Zero Friction
 
-### _Goal: Zero Friction_
+_Inertia:_ The resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion. ["Inertia" - Wikipedia][11] 
 
-Frictionless tools. An inertia-free process. I have left my blog lie fallow for over a year because of the friction of writing and publishing to it. Every time I came up with an idea to write about, I thought about the hassle of getting it online using my tools of choice, and instead of making it happen I did nothing. Thinking about the benefits of sharing did not help. Telling myself that I needed to be writing didn't help. Trying different HTML editors didn't help. Reading posts [about why I should][22] [be blogging didn't help (well, maybe a little)][23].
+>...
+
+>Inertia comes from the Latin word, iners, meaning idle, or lazy.
+
+>...
+
+>In common usage the term "inertia" may refer to an object's "amount of resistance to change in velocity"
+
+According to the [Free Dictionary][12], inertia is "the tendency of a body at rest to remain at rest." This is how I typically think about inertia, as resistance to movement. As the inability to get started on something. 
+
+Either getting started, or changing velocity:
+
+>On the surface of the Earth inertia is often masked by the effects of friction and air resistance, both of which tend to decrease the speed of moving objects (commonly to the point of rest), and gravity.
+
+
+
+Contrast inertia with impetus, which is [defined as][21]:
+
+>An impelling force; an impulse.
+
+It's also defined as a driving force, or the force or energy associated with a moving body. Friction is what makes inertia so hard to overcome, but once it is overcome that movement is what can give impetus to other things to move.
+
+![Notebooks of Leonardo Da Vinci](notebooks-of-leonardo-da-vinci.jpg)
+
+From Leonardo Da Vinci: 
+
+![Leonardo Da Vinci](http://upload.wikimedia.org/wikipedia/commons/f/f9/Leonardo_da_Vinci_-_Self-Portrait_-_WGA12798.jpg)
+
+I've been reading the [Notebooks of Leonardo Da Vinci][13] this week, and it was reading Da Vinci's notes on impetus that got me thinking about how reducing friction to overcome inertia is so key. Da Vinci defines Impetus as:
+
+>...a power created by movement and transmitted from the mover to the movable thing; and this movable thing has as much movement as the impetus has life. - p. 73
+
+Much of my inertia 
+
+## _Goal: Zero Friction_
+
+Frictionless tools. An inertia-free process. I have left my blog lie fallow for over a year because of the friction of writing and publishing to it. Every time I came up with an idea to write about, I thought about the hassle of getting it online using my tools of choice, and instead of making it happen I did nothing. Thinking about the benefits of sharing did not help. Telling myself that I needed to be writing didn't help. Trying different HTML editors didn't help. Reading posts [about why I should be blogging didn't help.][22] [Well, maybe a little][23].
 
 Friction in our tooling is the death of a thousand cuts.
 
@@ -36,41 +72,7 @@ And again in [Zero Friction & Maintainability][21] :
 
 What kind of friction? I can't work without source control now. 
 
-### Inertia and Impetus
 
-[Inertia:][11] Inertia is the resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion.
-
->Inertia comes from the Latin word, iners, meaning idle, or lazy.
-
-Contrast inertia with impetus, which is [defined as][21]:
-
->An impelling force; an impulse.
-
-It's also defined as a driving force, or the force or energy associated with a moving body. Friction is what makes inertia so hard to overcome, but once it is overcome that movement is what can give impetus to others to move also.
-
-![Notebooks of Leonardo Da Vinci](notebooks-of-leonardo-da-vinci.jpg)
-
-From Leonardo Da Vinci: 
-
-![Leonardo Da Vinci](http://upload.wikimedia.org/wikipedia/commons/f/f9/Leonardo_da_Vinci_-_Self-Portrait_-_WGA12798.jpg)
-
-I've been reading the [Notebooks of Leonardo Da Vinci][13] this week, and it was reading Da Vinci's notes on impetus that got me thinking about how reducing friction to overcome inertia is so key.
-
->_Definition of Impetus_
-
->Impetus is a power created by movement and transmitted from the mover to the movable thing; and this movable thing has as much movement as the impetus has life. - p. 73
-
-Much of my inertia 
-
->In common usage the term "inertia" may refer to an object's "amount of resistance to change in velocity"
-
-From the [Free Dictionary][12]:
-
->...the tendency of a body at rest to remain at rest...
-
-Either getting started, or changing velocity:
-
->On the surface of the Earth inertia is often masked by the effects of friction and air resistance, both of which tend to decrease the speed of moving objects (commonly to the point of rest), and gravity.
 
 ### Why Octopress?
 
@@ -127,6 +129,14 @@ Github pages aren't the only game in town, as @aeroplane soft pointed out:
 If you're using rbenv, as I was, then start with http://kvz.io/blog/2012/09/25/blog-with-octopress/
 
 This started out as a post about installing Octopress, and became something more.
+
+As Scott Hanselman said in [Your Blog is the Engine of Community][23]:
+
+>**I would encourage you _all_ to blog more. Tweet less.** Blogs are owned by you. They are easily found, easily linked to, and great conversations happen with great blog posts. The river of social media rushes on and those conversations are long forgotten. A great blog post is forever. Today's real-time social media is quickly forgotten.
+
+>Don't be a meme, but a movement.
+
+
 
 [0]: http://alblue.bandlem.com/2012/02/advantages-of-octopress.html
 [1]: http://joelhooks.com/blog/2012/07/25/fresh-start-migrating-wordpress-octopress/
