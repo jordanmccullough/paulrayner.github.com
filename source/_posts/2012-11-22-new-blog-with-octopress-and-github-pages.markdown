@@ -8,41 +8,19 @@ categories:
 
 ## Inertia and Impetus - Chasing Zero Friction
 
-_Inertia:_ The resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion. ["Inertia" - Wikipedia][11] 
+_Inertia:_ The resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion. [Wikipedia - "Inertia"][11] 
 
->...
+Inertia relates to an object's amount of resistance to change in velocity, whether it is moving or not. Either for an object getting started, or changing velocity when it is already moving:
 
->Inertia comes from the Latin word, iners, meaning idle, or lazy.
+The Wikipedia entry notes that "On the surface of the Earth inertia is often masked by the effects of friction and air resistance, both of which tend to decrease the speed of moving objects (commonly to the point of rest), and gravity."
 
->...
+So, inertia for moving objects is about their tendency to remain at the same velocity, but it's also about the tendency of resting objects not to move. According to the [Free Dictionary][12], inertia is "the tendency of a body at rest to remain at rest." This reluctance to move is how I typically think about inertia: resistance to movement. For me it's the inability to get started on something. Something that I know is important, but I'm feeling the drag created by friction.
 
->In common usage the term "inertia" may refer to an object's "amount of resistance to change in velocity"
+The Wikipedia entry also points out that:
 
-According to the [Free Dictionary][12], inertia is "the tendency of a body at rest to remain at rest." This is how I typically think about inertia, as resistance to movement. As the inability to get started on something. 
+>Inertia comes from the Latin word, __iners__, meaning idle, or lazy.
 
-Either getting started, or changing velocity:
-
->On the surface of the Earth inertia is often masked by the effects of friction and air resistance, both of which tend to decrease the speed of moving objects (commonly to the point of rest), and gravity.
-
-
-
-Contrast inertia with impetus, which is [defined as][21]:
-
->An impelling force; an impulse.
-
-It's also defined as a driving force, or the force or energy associated with a moving body. Friction is what makes inertia so hard to overcome, but once it is overcome that movement is what can give impetus to other things to move.
-
-![Notebooks of Leonardo Da Vinci](notebooks-of-leonardo-da-vinci.jpg)
-
-From Leonardo Da Vinci: 
-
-![Leonardo Da Vinci](http://upload.wikimedia.org/wikipedia/commons/f/f9/Leonardo_da_Vinci_-_Self-Portrait_-_WGA12798.jpg)
-
-I've been reading the [Notebooks of Leonardo Da Vinci][13] this week, and it was reading Da Vinci's notes on impetus that got me thinking about how reducing friction to overcome inertia is so key. Da Vinci defines Impetus as:
-
->...a power created by movement and transmitted from the mover to the movable thing; and this movable thing has as much movement as the impetus has life. - p. 73
-
-Much of my inertia 
+which is perhaps why I attribute my reluctance to do things as laziness.
 
 ## _Goal: Zero Friction_
 
@@ -71,6 +49,23 @@ And again in [Zero Friction & Maintainability][21] :
 >By reducing the friction in the environment, you increase the system maintainability
 
 What kind of friction? I can't work without source control now. 
+
+
+Contrast inertia with impetus, which is [defined as][21]:
+
+>An impelling force; an impulse.
+
+It's also defined as a driving force, or the force or energy associated with a moving body. Friction is what makes inertia so hard to overcome, but once it is overcome that movement is what can give impetus to other things to move.
+
+![Notebooks of Leonardo Da Vinci](notebooks-of-leonardo-da-vinci.jpg)
+
+From Leonardo Da Vinci: 
+
+![Leonardo Da Vinci](http://upload.wikimedia.org/wikipedia/commons/f/f9/Leonardo_da_Vinci_-_Self-Portrait_-_WGA12798.jpg)
+
+I've been reading the [Notebooks of Leonardo Da Vinci][13] this week, and it was reading Da Vinci's notes on impetus that got me thinking about how reducing friction to overcome inertia is so key. Da Vinci defines Impetus as:
+
+>...a power created by movement and transmitted from the mover to the movable thing; and this movable thing has as much movement as the impetus has life. - p. 73
 
 
 
