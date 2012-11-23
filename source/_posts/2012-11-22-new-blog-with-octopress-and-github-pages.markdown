@@ -121,7 +121,7 @@ Github pages aren't the only game in town, as @aeroplane soft pointed out:
 
 ![Hosting Octopress on Amazon S3](hosting-octopress-s3.png)
 
-If you're using rbenv, as I was, then start with http://kvz.io/blog/2012/09/25/blog-with-octopress/
+If you're using rbenv, as I was, then start with [Blog with Octopress and Github Pages][26]
 
 As Wynn Netherland points out, [Octopress Classic is the new Kubrick][24], so customize your blog. Make it your own. Friends don't let friends stick with the Octopress default template. Take a look at some of the [Octopress "hidden" features][25].
 
@@ -150,3 +150,4 @@ As Scott Hanselman said in [Your Blog is the Engine of Community][23]:
 [23]: http://www.hanselman.com/blog/YourBlogIsTheEngineOfCommunity.aspx
 [24]: http://wynnnetherland.com/journal/octopress-classic-is-the-new-kubrick
 [25]: http://www.meatleasing.com/octopress-hidden-features/index.html
+[26]: http://kvz.io/blog/2012/09/25/blog-with-octopress/
