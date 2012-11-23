@@ -2,6 +2,7 @@
 layout: post
 title: "Scheduling posts with Octopress"
 date: 2012-11-22 19:40
+published: false
 comments: true
 categories: Writing
 sharing: true

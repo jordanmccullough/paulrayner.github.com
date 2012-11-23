@@ -4,6 +4,7 @@ title: "New blog with Octopress and Github pages"
 date: 2012-11-22 12:26
 comments: true
 categories: 
+published: false
 ---
 
 ## Inertia and Impetus - Chasing Zero Friction
@@ -78,6 +79,8 @@ Here are [4 good reasons][0] from AlBlue's blog:
 * Stylish
 * Plugins
 
+See also [Octopress Is Pretty Great][27].
+
 Have been using BlogEngine.NET. Liked it, but found the authoring experience tedious, and wanted to move to tools I am now either more comfortable with or interested in learning: Ruby, Jekyll, Markdown, Sublime Text 2, Byword, Marked, Git. As Joel Hooks says on his ["Fresh Start"][1] blog post:
 
 >It falls well into the [breakable toy][5] category of things, and that is something I can use right now as I learn new tools. I’m looking forward to improving this space with quality content about modern standards-based web development with open source tools.
@@ -151,3 +154,4 @@ As Scott Hanselman said in [Your Blog is the Engine of Community][23]:
 [24]: http://wynnnetherland.com/journal/octopress-classic-is-the-new-kubrick
 [25]: http://www.meatleasing.com/octopress-hidden-features/index.html
 [26]: http://kvz.io/blog/2012/09/25/blog-with-octopress/
+[27]: http://www.neilsmithline.com/blog/2012/05/26/octopress-is-pretty-great/
