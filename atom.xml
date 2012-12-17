@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[thepaulrayner.com]]></title>
+  <link href="thepaulrayner.com/atom.xml" rel="self"/>
+  <link href="thepaulrayner.com/"/>
+  <updated>2012-12-13T18:02:52-07:00</updated>
+  <id>thepaulrayner.com/</id>
+  <author>
+    <name><![CDATA[Paul Rayner]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
