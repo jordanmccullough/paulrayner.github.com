@@ -1,99 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Leading by Design</title>
-  <meta name="author" content="Paul Rayner">
-
-  
-  <meta name="description" content="This is a review of the book Implementing Domain-Driven Design by Vaughn Vernon. The book is currently available for preorder on Amazon.com, and as &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://jordanmccullough.github.com/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Leading by Design" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Leading by Design</a></h1>
-  
-    <h2>Learning never exhausts the mind - Leonardo Da Vinci</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:jordanmccullough.github.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Leading by Design]]></title>
+  <link href="http://jordanmccullough.github.com/atom.xml" rel="self"/>
+  <link href="http://jordanmccullough.github.com/"/>
+  <updated>2012-12-22T11:55:48-07:00</updated>
+  <id>http://jordanmccullough.github.com/</id>
+  <author>
+    <name><![CDATA[Paul Rayner]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2012/11/29/book-review-implementing-domain-driven-design/">Book Review: Implementing Domain-Driven Design</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2012-11-29T16:27:00-07:00" pubdate data-updated="true">Nov 29<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>This is a review of the book <em>Implementing Domain-Driven Design</em> by Vaughn Vernon. The book is currently available for <a href="http://amzn.to/RN4qWJ">preorder on Amazon.com</a>, and as of now the scheduled release date is February 14, 2013. This review won&#8217;t be a detailed walkthrough, but rather focuses on the parts of the book that I found most interesting and helpful,  highlighting the things that stood out to me.</p>
+  <entry>
+    <title type="html"><![CDATA[Book Review: Implementing Domain-Driven Design]]></title>
+    <link href="http://jordanmccullough.github.com/blog/2012/11/29/book-review-implementing-domain-driven-design/"/>
+    <updated>2012-11-29T16:27:00-07:00</updated>
+    <id>http://jordanmccullough.github.com/blog/2012/11/29/book-review-implementing-domain-driven-design</id>
+    <content type="html"><![CDATA[<p>This is a review of the book <em>Implementing Domain-Driven Design</em> by Vaughn Vernon. The book is currently available for <a href="http://amzn.to/RN4qWJ">preorder on Amazon.com</a>, and as of now the scheduled release date is February 14, 2013. This review won&#8217;t be a detailed walkthrough, but rather focuses on the parts of the book that I found most interesting and helpful,  highlighting the things that stood out to me.</p>
 
 <p>As a little background, last year I was priviliged to be a technical editor for Vaughn&#8217;s <a href="http://dddcommunity.org/library/vernon_2011">Effective Aggregate Design series</a> last year, which formed the basis for chapter 10. I also enjoyed hearing Vaughn present a series on effective aggregate design at our <a href="#DDD_Denver">DDD Denver meetup</a>. For months now I have been recommending this book on the basis of the high quality of these aggregate design articles and presentations. But now I am pleased to back that recommendation with a full read of the <a href="http://my.safaribooksonline.com/book/project-management/9780133039900">Safari Books Online rough cut edition</a>.</p>
 
@@ -175,165 +100,16 @@
 <p><a name="DDD_resources">DDD Resources</a></p>
 
 <p>For someone that wants to get up to speed with DDD there are a variety of complementary options. Firstly, those that want to explore on their own can find sample apps and an abundance of presentations and articles on the <a href="http://dddcommunity.org">DDD Community site</a> and <a href="http://www.infoq.com/domain-driven-design/">InfoQ</a>. There is also the <a href="http://tech.groups.yahoo.com/group/domaindrivendesign/">DDD mailing list</a>, <a href="http://stackoverflow.com/questions/tagged/domain-driven-design">Stack Overflow feed</a>, and blog posts by a variety of knowledgeable individuals. Finally, if you want to get up-to-speed quickly then attend one of the excellent public <a href="http://www.domainlanguage.com/training">Domain Language DDD classes</a>, designed by Eric Evans himself. These classes are offered through Domain Language and its training partners in New York City, Denver, London, Paris, Oslo and Stockholm.  These classes are also available as onsite offerings if you want to get your whole team trained.</p>
-</div>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[Brand refresh]]></title>
+    <link href="http://jordanmccullough.github.com/blog/2012/11/22/brand-refresh/"/>
+    <updated>2012-11-22T16:27:00-07:00</updated>
+    <id>http://jordanmccullough.github.com/blog/2012/11/22/brand-refresh</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/11/22/brand-refresh/">Brand Refresh</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-11-22T16:27:00-07:00" pubdate data-updated="true">Nov 22<span>nd</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">
-</div>
-  
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>About Me</h1>
-  <p>A little something about me.</p>
-</section>
-<section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2012/11/29/book-review-implementing-domain-driven-design/">Book Review: Implementing Domain-Driven Design</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/11/22/brand-refresh/">Brand refresh</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("thepaulrayner", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/thepaulrayner" class="twitter-follow-button" data-show-count="false">Follow @thepaulrayner</a>
-  
-</section>
-
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-  <a href="https://github.com/paulrayner">@paulrayner</a> on GitHub
-  
-  <script type="text/javascript">
-    $.domReady(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'paulrayner',
-            count: 0,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-<section>
-  <h1>On Delicious</h1>
-  <div id="delicious"></div>
-  <script type="text/javascript" src="http://feeds.delicious.com/v2/json/virtualgenius?count=3&amp;sort=date&amp;callback=renderDeliciousLinks"></script>
-  <p><a href="http://delicious.com/virtualgenius">My Delicious Bookmarks &raquo;</a></p>
-</section>
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2012 - Paul Rayner -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
