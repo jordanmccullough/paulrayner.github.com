@@ -1,3 +1,4 @@
+/*
 @import "compass";
 @include global-reset;
 @include reset-html5;
@@ -8,3 +9,36 @@
 @import "base";
 @import "partials";
 @import "custom/styles";
+*/
+
+/*Temporary only!*/
+$bright: #ffffff;
+$shadow: #d7d7d7;
+$light: #fafafa;
+
+
+html,body{
+	background-color: $light;
+
+}
+
+nav form{
+	margin: 5px 0 0 0;
+	padding: 0;
+	height: 30px;
+}
+
+.subscription-search{
+	padding-right: 1em;
+	border-right: solid 1px #999;
+}
+
+.container{
+	/*Temp hack*/
+	overflow: hidden;
+
+	background: $bright;
+	padding-left: 1em;
+	padding-right: 1em;
+	box-shadow: 0 0 0 1px $light, 0 0 0 2px $bright, 0 0 .5em $shadow;
+}
