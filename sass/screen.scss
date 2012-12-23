@@ -12,14 +12,37 @@
 */
 
 /*Temporary only!*/
+$vg-bright: #e01b22;
+$vg-mid: #b01117;
+$vg-dark: #670000;
 $bright: #ffffff;
-$shadow: #d7d7d7;
+$shadow: #888;
 $light: #fafafa;
+$dark: #8A9298;
 
 
+/*Override bg and font global defaults*/
 html,body{
 	background-color: $light;
+	font-family: 'Source Sans Pro', sans-serif;
+}
 
+/*Override default header weights*/
+h1,h2,h3,h4,h5{
+	font-weight: 300;
+	color: $dark;
+}
+
+a{
+	color: $vg-mid;
+}
+a:hover{
+	color: $vg-dark;
+	text-decoration: none;
+}
+
+aside h1{
+	font-size: 1.5em;
 }
 
 nav form{
@@ -30,7 +53,6 @@ nav form{
 
 .subscription-search{
 	padding-right: 1em;
-	border-right: solid 1px #999;
 }
 
 .container{
