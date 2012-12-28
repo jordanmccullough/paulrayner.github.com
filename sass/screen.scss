@@ -1,66 +1,15 @@
-/*
+
 @import "compass";
-@include global-reset;
+/*@include global-reset;*/
 @include reset-html5;
+
 
 @import "custom/colors";
 @import "custom/fonts";
 @import "custom/layout";
+
+/*
 @import "base";
 @import "partials";
 @import "custom/styles";
 */
-
-/*Temporary only!*/
-$vg-bright: #e01b22;
-$vg-mid: #b01117;
-$vg-dark: #670000;
-$bright: #ffffff;
-$shadow: #888;
-$light: #fafafa;
-$dark: #8A9298;
-
-
-/*Override bg and font global defaults*/
-html,body{
-	background-color: $light;
-	font-family: 'Source Sans Pro', sans-serif;
-}
-
-/*Override default header weights*/
-h1,h2,h3,h4,h5{
-	font-weight: 300;
-	color: $dark;
-}
-
-a{
-	color: $vg-mid;
-}
-a:hover{
-	color: $vg-dark;
-	text-decoration: none;
-}
-
-aside h1{
-	font-size: 1.5em;
-}
-
-nav form{
-	margin: 5px 0 0 0;
-	padding: 0;
-	height: 30px;
-}
-
-.subscription-search{
-	padding-right: 1em;
-}
-
-.container{
-	/*Temp hack*/
-	overflow: hidden;
-
-	background: $bright;
-	padding-left: 1em;
-	padding-right: 1em;
-	box-shadow: 0 0 0 1px $light, 0 0 0 2px $bright, 0 0 .5em $shadow;
-}
