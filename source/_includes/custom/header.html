@@ -1,5 +1,8 @@
-<h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+
+<a href="{{ root_url }}/">{{ site.title }}</a>
+
+{% comment %}
 {% if site.subtitle %}
   <small class="hidden-phone">{{ site.subtitle }}</small>
 {% endif %}
-
+{% endcomment %}

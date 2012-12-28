@@ -1,4 +1,7 @@
-<ul class="subscription-search nav" data-subscription="rss{% if site.subscribe_email %} email{% endif %}">
+<!-- <ul data-subscription="rss{% if site.subscribe_email %} email{% endif %}"> -->
+<ul>
+    {% include custom/navigation.html %}
+    
     <li>
       <a href="{{ site.subscribe_rss }}" rel="subscribe-rss" title="subscribe via RSS">RSS</a>
     </li>
@@ -7,6 +10,7 @@
     <li><a href="{{ site.subscribe_email }}" rel="subscribe-email" title="subscribe via email">Email</a></li>
   {% endif %}
 
+  {% comment %}
   {% if site.simple_search %}
     <li>
       <form action="{{ site.simple_search }}" method="get">
@@ -17,6 +21,7 @@
       </form>
     </li>
   {% endif %}
+  {% endcomment %}
 </ul>
   
-{% include custom/navigation.html %}
+
