@@ -27,6 +27,7 @@ h1,h2,h3,h4,h5,h6{
 		padding: 10px 0 0 0;
 	}
 .navi{
+	font-family: 'Source Sans Pro', sans-serif;
 	height: 80px;
 	float:right;
 }
@@ -74,7 +75,7 @@ nav ul li:last-child:after{
 		content: '\2022\2022\2022';
 		display: block;
 		text-align: center;
-		color: $light;
+		color: $medium;
 	}
 	.masthead small{
 		font-size: 1.2em;
@@ -95,7 +96,7 @@ footer{
 	/*color: $bright;*/
 }
 
-article time{
+article .pub-group{
 	background: $dark;
 	color: $bright;
 	box-shadow: 0 0 0 2px $bright, 0 0 .5em $medium;
@@ -108,16 +109,16 @@ article time{
 	margin-right: .5em;
 }
 	.entry-title{
-		padding: 0 0 1em 0;
+		padding: .75em 0 1em 0;
 		line-height: 1em;
 		display: table-cell;
 	}
-	article time .pub-date{
+	article .pub-group .pub-date{
 		display: table-cell;
 		vertical-align: middle;
 	}
 	@media (max-width: 767px){
-		article time{
+		article .pub-group {
 			background: none;
 			color: $dark;
 			margin: 0 auto;
@@ -128,7 +129,7 @@ article time{
 			box-shadow: none;
 			border-radius: 0;
 		}
-			article time .pub-date{
+			article .pub-group  .pub-date{
 				display: block;
 			}
 	}

@@ -11,6 +11,8 @@ published: false
 
 _Inertia:_ The resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion. [Wikipedia - "Inertia"][11] 
 
+<!--more-->
+
 Inertia relates to an object's amount of resistance to change in velocity, whether it is moving or not. Either for an object getting started, or changing velocity when it is already moving:
 
 The Wikipedia entry notes that "On the surface of the Earth inertia is often masked by the effects of friction and air resistance, both of which tend to decrease the speed of moving objects (commonly to the point of rest), and gravity."

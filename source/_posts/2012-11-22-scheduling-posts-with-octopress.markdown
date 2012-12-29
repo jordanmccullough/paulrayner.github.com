@@ -11,6 +11,8 @@ footer: true
 
 One thing I've discovered about my writing is that it is very sporadic. I will be inspired with an idea, write about it, go in a completely different direction. And end up with a long winding article that actually generates a bunch of blog posts. This is a consistent pattern for me. 
 
+<!--more-->
+
 I want to be able to create draft posts. And then mark them as ready to publish. Once I do this then for the vast majority of them I want to have something that happens in the background that pushes all those blog posts onto a fire-and-forget queue, and then posts them on a consistent basis regardless of when the posts were written. I want to be able to override this from time to time, scheduling a post for a certain day, but that is the exception, not the rule.
 
 Bascially, be able to write whenever the fancy strikes me, and then when they are ready, add them to a automated publishing pipeline. I want to be able to see the contents of the pipeline (which posts are scheduled and when), so I always can stay ahead of it, or tweak the order if I need to.

@@ -8,6 +8,8 @@ categories:
 
 This is a review of the book _Implementing Domain-Driven Design_ by Vaughn Vernon. The book is currently available for [preorder on Amazon.com][0], and as of now the scheduled release date is February 14, 2013. This review won't be a detailed walkthrough, but rather focuses on the parts of the book that I found most interesting and helpful,  highlighting the things that stood out to me.
 
+<!--more-->
+
 As a little background, last year I was priviliged to be a technical editor for Vaughn's [Effective Aggregate Design series][1] last year, which formed the basis for chapter 10. I also enjoyed hearing Vaughn present a series on effective aggregate design at our <a href="#DDD_Denver">DDD Denver meetup</a>. For months now I have been recommending this book on the basis of the high quality of these aggregate design articles and presentations. But now I am pleased to back that recommendation with a full read of the [Safari Books Online rough cut edition][2]. 
 
 I have been a certified [Domain Language DDD instructor][3] for over two years now, and the most common question I am asked by my students is where they can find solid, pragmatic advice on how to actually implement DDD with the frameworks and tools with which they are already familiar. While there is much <a href="#DDD_Resources">information available</a>, what Vaughn has done with this book is to distill the wisdom of the DDD community into a single book that provides pragmatic, expert guidance on how best to succeed with implementing DDD.  So I'm very pleased to say that _Implementing Domain-Driven Design_ is the book that in future I will recommend students of DDD purchase and read alongside Eric's Blue Book.
